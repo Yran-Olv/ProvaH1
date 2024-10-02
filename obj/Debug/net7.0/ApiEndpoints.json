@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.ChurrascoController",
+    "Method": "AdicionarParticipante",
+    "RelativePath": "api/Churrasco",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "participante",
+        "Type": "WebApplication1.Models.Participante",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.ChurrascoController",
+    "Method": "ListarParticipantes",
+    "RelativePath": "api/Churrasco",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
